@@ -1,0 +1,16 @@
+{
+  "publicaciones": [
+    {
+      "id": 5,
+      "titulo": "Imagen avatar",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCndPyhcWNx7wItYiUbA0tq2akXGzBv_xnhovC3dXQhO0qGy9o",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "otro video x",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "tipo": "video",
+      "id": 6
+    }
+  ]
+}
